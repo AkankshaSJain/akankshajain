@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/akankshajain/static/css/main.54a4d735.chunk.css",
+    "main.js": "/akankshajain/static/js/main.5a058d8e.chunk.js",
+    "main.js.map": "/akankshajain/static/js/main.5a058d8e.chunk.js.map",
+    "runtime~main.js": "/akankshajain/static/js/runtime~main.7274e82f.js",
+    "runtime~main.js.map": "/akankshajain/static/js/runtime~main.7274e82f.js.map",
+    "static/js/2.4158ca30.chunk.js": "/akankshajain/static/js/2.4158ca30.chunk.js",
+    "static/js/2.4158ca30.chunk.js.map": "/akankshajain/static/js/2.4158ca30.chunk.js.map",
+    "index.html": "/akankshajain/index.html",
+    "precache-manifest.da17c11c5a18051f5500fbc031a8c000.js": "/akankshajain/precache-manifest.da17c11c5a18051f5500fbc031a8c000.js",
+    "service-worker.js": "/akankshajain/service-worker.js",
+    "static/css/main.54a4d735.chunk.css.map": "/akankshajain/static/css/main.54a4d735.chunk.css.map",
+    "static/media/MHE1.png": "/akankshajain/static/media/MHE1.53dc1935.png",
+    "static/media/aes1.jpg": "/akankshajain/static/media/aes1.d13999c5.jpg",
+    "static/media/amdocs-logo.jpg": "/akankshajain/static/media/amdocs-logo.9066fb13.jpg",
+    "static/media/amdocs1.jpg": "/akankshajain/static/media/amdocs1.c7287786.jpg",
+    "static/media/dance.png": "/akankshajain/static/media/dance.34e52f1e.png",
+    "static/media/App.css": "/akankshajain/static/media/largeMural.b4f9c20d.jpg",
+    "static/media/prg.jpg": "/akankshajain/static/media/prg.afa4eda2.jpg",
+    "static/media/profilepic.jpg": "/akankshajain/static/media/profilepic.a463547b.jpg",
+    "static/media/resume.pdf": "/akankshajain/static/media/resume.970ab55b.pdf"
+  }
+}
